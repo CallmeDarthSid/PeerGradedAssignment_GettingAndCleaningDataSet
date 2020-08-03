@@ -48,7 +48,7 @@ subject <- rbind(subject_train, subject_test)
 data <- cbind(rbind(X_train, X_test), label, subject)
 ...
 ```
-  
+
 ### 3. Uses descriptive activity names to name the activities in the data set
   
   This section can be done by replace the "ActivityName" column with the activity_labels data set by     reformat the variable from integer (1 - 6) to factor variable
