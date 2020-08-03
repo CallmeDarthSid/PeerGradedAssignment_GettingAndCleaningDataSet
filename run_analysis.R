@@ -1,6 +1,5 @@
 ##--Peer-graded Assignment : Getting and Cleaning Data Sets--
 
-
 ## 1. Merge the training and test data set to create one data set
 
 ## a. Read train, test set, and features into Dataframe
